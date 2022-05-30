@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<meta charset="utf-8">
+ <title>Javascript</title>
+ <script src="script.js"></script>
+</head>
+<body>
+  <h1>Click the button to have some fun.</h1>
+<p id="demon">Click the button to change the colour and font.</p>
+  <button onclick="sayhello()">click me</button>
+  <button onclick="showTopic()">Press me</button>
+</body>
+</html>
